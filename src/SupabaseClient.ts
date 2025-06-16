@@ -11,7 +11,7 @@ import {
   RealtimeClient,
   RealtimeClientOptions,
 } from '@supabase/realtime-js'
-import { StorageClient as SupabaseStorageClient } from '@supabase/storage-js'
+import { StorageClient as SupabaseStorageClient } from 'kpmquockhanh/storage-js'
 import {
   DEFAULT_GLOBAL_OPTIONS,
   DEFAULT_DB_OPTIONS,
